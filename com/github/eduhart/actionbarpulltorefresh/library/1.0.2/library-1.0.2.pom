@@ -4,11 +4,11 @@
 
     <groupId>com.github.eduhart.actionbarpulltorefresh</groupId>
     <artifactId>library</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>aar</packaging>
 
     <name>ActionBarPull to refresh library with fixes for Samsung tablets running Android Lollipop</name>
-    <url></url>
+    <url>https://github.com/eduhart/ActionBar-PullToRefresh/tree/mvn-repo</url>
 
     <properties>
         <!--  build settings  -->
@@ -34,7 +34,7 @@
         <dependency>
             <groupId>com.github.castorflex.smoothprogressbar</groupId>
             <artifactId>library</artifactId>
-            <version>0.4.0</version>
+            <version>1.0.0</version>
             <type>aar</type>
             <scope>compile</scope>
         </dependency>
